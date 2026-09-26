@@ -4,6 +4,7 @@ Extracts data for 20 books (name, price, rating, and link) from the homepage of 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 ![Demo](Attached_files/Terminal_output.PNG)
 ___
 
