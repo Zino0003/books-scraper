@@ -75,7 +75,7 @@ books-scraper/
 ├── books_scraper.py      # Main script (scraping)
 ├── requirements.txt      # Python dependencies
 ├── Books_scraping.csv    # Sample output (cleaned)
-├── screenshot.png        # Sample output screenshot
+├── Attached_files/       # Output screenshots
 ├── LICENSE               # License file
 ├── .gitignore            # Git ignore rules
 └── README.md             # Project documentation
@@ -83,7 +83,6 @@ books-scraper/
 ___
 
 ## ✨ Built With :
-## Built With
 - [Python 3.8+](https://www.python.org/) — core programming language
 - [Requests](https://requests.readthedocs.io/) — for sending HTTP requests
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) — for parsing HTML and extracting data
